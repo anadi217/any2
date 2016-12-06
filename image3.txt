@@ -1,0 +1,12 @@
+<html>
+<body>
+<h1>RETRIVE THE IMAGE</h1>
+<div class="media-left">
+  {% if img.imageUrl %}
+    <img class="image" src="{{img.imageUrl}}">
+  {% else %}
+    <img class="image" src="http://onetonboom.com/g/128/192">
+  {% endif %}
+</div>
+</body>
+</html>
