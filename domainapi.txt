@@ -1,0 +1,13 @@
+{
+"primaryEmail": "ap@yourdomain.com",
+"name": {
+ "givenName": "Anadi",
+ "familyName": "Shankar"
+},
+"suspended": false,
+"password": "new user password",
+"changePasswordAtNextLogin": false,
+"ipWhitelisted": false,
+"orgUnitPath": "\walkthis\way",
+"includeInGlobalAddressList": true
+}
